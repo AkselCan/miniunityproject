@@ -25,3 +25,5 @@ https://github.com/user-attachments/assets/3a70ebae-bcb7-4889-97d5-7be5f23b6f4b
 - Due to the teleportation area being underneath the the plane, locomotion doesn't feel incredibly accurate.
 - The socket's attachment point is a little high, making the cone seem floating on the top shelf.
 
+---
+This project was for Dr. Demirel's Virtualy Reality (CS5970) class. 
