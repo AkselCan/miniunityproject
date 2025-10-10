@@ -10,10 +10,11 @@ Small interactive VR scene demonstrating locomotion (teleport + smooth move) and
 - Controls (XR Device Simulator): HMD selected → WASD to move, Right Mouse to look; Tab to cycle to Right Controller; Left Click to teleport/ grab.
 
 ## Build Target
-- (PC Standalone / Android for Quest), OpenXR enabled
+- (PC Standalone / Android for Quest), OpenXR enabled)
 
-## Video (2–3 min, narrated)
-"C:\Users\aksel\Videos\Captures\My project (2) - Main - Windows, Mac, Linux - Unity 2022.3.62f2 _DX11_ 2025-10-09 23-06-16.mp4"
+## Video (2–3 min, narrat
+
+https://github.com/user-attachments/assets/3a70ebae-bcb7-4889-97d5-7be5f23b6f4b
 
 ## Features
 - Locomotion: Teleportation & Smooth Move
@@ -21,4 +22,6 @@ Small interactive VR scene demonstrating locomotion (teleport + smooth move) and
 - Scene: 20+ meshes with PBR maps; 5 realtime lights (only one directional)
 
 ## Known Issues
-- Minor clipping when dropping tire into wall peg if released too far away.
+- Due to the teleportation area being underneath the the plane, locomotion doesn't feel incredibly accurate.
+- The socket's attachment point is a little high, making the cone seem floating on the top shelf.
+
